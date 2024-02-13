@@ -1,0 +1,16 @@
+#root {
+  m-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  min-height: 50vh;
+  background-color: burlywood;
+}
+
+.h1{color: white;}
+
+form {
+display: flex;
+flex-direction: column;
+
+}
